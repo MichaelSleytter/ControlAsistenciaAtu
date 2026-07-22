@@ -1,0 +1,10 @@
+target/
+.env
+*.log
+muestra-exportacion.xlsx
+cp.txt
+.idea/
+*.iml
+.vscode/
+.mvn/wrapper/maven-wrapper.jar
+HELP.md
