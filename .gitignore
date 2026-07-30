@@ -2,6 +2,7 @@ target/
 .env
 *.log
 muestra-exportacion.xlsx
+prueba-real-export.xlsx
 cp.txt
 .idea/
 *.iml
